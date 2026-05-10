@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510014651LP6BWX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510014651WQDRAO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Texturas de Andalucía</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje de la asignatura de Educación Plástica Visual y Audiovisual para 3º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Mar Granero</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value> En esta situación de aprendizaje, el alumnado va a trabajar sobre saberes básicos relacionados con forma, color y textura de la representación gráfica. Por ello, en el producto final vamos a proponerles como problema el diseño de una camiseta promocional de Andalucía. Este diseño se elabora mediante un collage donde el alumnado compone creativamente las texturas, colores y formas que representan elementos de identidad de Andalucía. Este proyecto será cooperativo, en grupos (para incluir todas las provincias andaluzas) y se elaborará de forma digital con el uso de la aplicación Canva.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778365970855</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moytrn21-qd6jgwqwr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moytrn21-qd6jgwqwr</odePageId>
+      <odeBlockId>block-1778343266090-skgsja5m9</odeBlockId>
+      <blockName>Presentación SdA: Texturas de Andalucía</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moytrn21-qd6jgwqwr</odePageId>
+          <odeBlockId>block-1778343266090-skgsja5m9</odeBlockId>
+          <odeIdeviceId>idevice-1778343266086-7sha5qdyi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola a todos y todas! ¿Listos para sacar vuestro lado más creativo?</p>
+<p>Como ya sabéis, en EPVA de 3º de ESO vamos a empezar un proyecto que os va a encantar. Durante el mes de noviembre, a lo largo de 8 sesiones, nos vamos a convertir en diseñadores de moda con nuestra SdA: "Texturas de Andalucía".</p>
+<p>👕 El Reto: Diseñando la camiseta de Andalucía<br />El objetivo final es que, por grupos cooperativos, diseñéis una camiseta promocional de nuestra tierra o de la provincia andaluza que más os inspire. No se trata solo de poner un logo y ya está; la idea es crear un collage digital donde juguéis con las formas, los colores y, sobre todo, las texturas que nos rodean: desde la azulejería mudéjar hasta elementos del flamenco o la arquitectura más moderna.</p>
+<p>🛠️ ¿Cómo lo vamos a hacer?<br />Vamos a mezclar lo tradicional con lo tecnológico:</p>
+<ul>
+<li>Boceto previo: Empezaremos con un dibujo a mano en papel para soltar la idea.</li>
+<li>Salto al mundo digital: Usaremos Canva, una herramienta que ya conocéis pero que vamos a exprimir al máximo para que vuestras composiciones parezcan profesionales.</li>
+</ul>
+<p>Recursos: Podréis usar vuestras propias fotos, dibujos hechos a mano o buscar imágenes en bancos como Pixabay o Freepik.</p>
+<p>🎨 ¿Qué vamos a aprender?<br />Aparte de pasarlo bien diseñando, vamos a profundizar en el lenguaje visual. Aprenderemos a usar el color de forma expresiva, a entender cómo las texturas transmiten sensaciones y a valorar nuestro patrimonio cultural desde una mirada actual y bilingüe (español e inglés).</p>
+<p>📝 ¿Y la nota?<br />Para que estéis tranquilos, la evaluación será muy clara y la conoceréis desde el primer día:</p>
+<ul>
+<li>Vuestro Portafolio: Recogeré todos los ejercicios y tareas que hagamos en clase para ver vuestro progreso diario.</li>
+<li> El Producto Final: Evaluaremos el diseño de la camiseta con una rúbrica (que os daré antes de empezar) y un formulario de Google donde registraréis vuestras decisiones sobre el color.</li>
+</ul>
+<p> <br />¡Estoy deseando ver esos diseños! Vamos a demostrar que en Andalucía nos sobra arte y talento digital. ¿Alguna duda antes de empezar a abocetar?</p>
+<p>No olvides echarle un vistazo a la infografía de presentación de esta SdA texturas de Andalucía</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343266086-7sha5qdyi","textInfoDurationInput":"","textInfoDurationTextInput":"8 horas","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"grupos de 2-3 personas","textTextarea":"<p>¡Hola a todos y todas! ¿Listos para sacar vuestro lado más creativo?</p>\n<p>Como ya sabéis, en EPVA de 3º de ESO vamos a empezar un proyecto que os va a encantar. Durante el mes de noviembre, a lo largo de 8 sesiones, nos vamos a convertir en diseñadores de moda con nuestra SdA: \"Texturas de Andalucía\".</p>\n<p>👕 El Reto: Diseñando la camiseta de Andalucía<br />El objetivo final es que, por grupos cooperativos, diseñéis una camiseta promocional de nuestra tierra o de la provincia andaluza que más os inspire. No se trata solo de poner un logo y ya está; la idea es crear un collage digital donde juguéis con las formas, los colores y, sobre todo, las texturas que nos rodean: desde la azulejería mudéjar hasta elementos del flamenco o la arquitectura más moderna.</p>\n<p>🛠️ ¿Cómo lo vamos a hacer?<br />Vamos a mezclar lo tradicional con lo tecnológico:</p>\n<ul>\n<li>Boceto previo: Empezaremos con un dibujo a mano en papel para soltar la idea.</li>\n<li>Salto al mundo digital: Usaremos Canva, una herramienta que ya conocéis pero que vamos a exprimir al máximo para que vuestras composiciones parezcan profesionales.</li>\n</ul>\n<p>Recursos: Podréis usar vuestras propias fotos, dibujos hechos a mano o buscar imágenes en bancos como Pixabay o Freepik.</p>\n<p>🎨 ¿Qué vamos a aprender?<br />Aparte de pasarlo bien diseñando, vamos a profundizar en el lenguaje visual. Aprenderemos a usar el color de forma expresiva, a entender cómo las texturas transmiten sensaciones y a valorar nuestro patrimonio cultural desde una mirada actual y bilingüe (español e inglés).</p>\n<p>📝 ¿Y la nota?<br />Para que estéis tranquilos, la evaluación será muy clara y la conoceréis desde el primer día:</p>\n<ul>\n<li>Vuestro Portafolio: Recogeré todos los ejercicios y tareas que hagamos en clase para ver vuestro progreso diario.</li>\n<li> El Producto Final: Evaluaremos el diseño de la camiseta con una rúbrica (que os daré antes de empezar) y un formulario de Google donde registraréis vuestras decisiones sobre el color.</li>\n</ul>\n<p> <br />¡Estoy deseando ver esos diseños! Vamos a demostrar que en Andalucía nos sobra arte y talento digital. ¿Alguna duda antes de empezar a abocetar?</p>\n<p>No olvides echarle un vistazo a la infografía de presentación de esta SdA texturas de Andalucía</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moytrn24-07atosl2f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica y línea temporal</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica y línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica y línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moytrn24-07atosl2f</odePageId>
+      <odeBlockId>block-1778347201858-042hde4ku</odeBlockId>
+      <blockName>Guía didáctica y línea temporal</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moytrn24-07atosl2f</odePageId>
+          <odeBlockId>block-1778347201858-042hde4ku</odeBlockId>
+          <odeIdeviceId>idevice-1778347201857-eafmht8ly</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778347201857-eafmht8ly" title="" href="{{context_path}}/content/resources/Infografía Línea de Tiempo Cronológica Multicolor .jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía Línea de Tiempo Cronológica Multicolor .jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778347201857-eafmht8ly","img_0":{"img":"{{context_path}}/content/resources/Infografía Línea de Tiempo Cronológica Multicolor .jpg","thumbnail":"{{context_path}}/content/resources/Infografía Línea de Tiempo Cronológica Multicolor .jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moytrn25-sqjewqz46</odePageId>
+  <odeParentPageId>page-moytrn24-07atosl2f</odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moytrn25-sqjewqz46</odePageId>
+      <odeBlockId>block-1778348086730-px8rbisw3</odeBlockId>
+      <blockName>Criterios de evaluación para cada tarea</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moytrn25-sqjewqz46</odePageId>
+          <odeBlockId>block-1778348086730-px8rbisw3</odeBlockId>
+          <odeIdeviceId>idevice-1778348086728-t3kgdl4d8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>SdA: Texturas de Andalucía</strong></p>
+<p> Asignatura: Educación Plástica Visual y Audiovisual (EPVA)  de 3° de ESO</p>
+<p>Temática: El alumnado va a trabajar en esta situación de aprendizaje sobre los saberes básicos relacionados con forma, color y textura de la representación gráfica. Por ello, en el producto final vamos a proponerles como problema el diseño de una camiseta promocional de Andalucía. Este diseño se elabora mediante un collage donde el alumnado compone creativamente las texturas, colores y formas que representan elementos de identidad de Andalucía. Este proyecto será cooperativo, en grupos (para incluir todas las provincias andaluzas) y se elaborará de forma digital con el uso de la aplicación Canva.</p>
+<p>Temporalización: noviembre, 8 sesiones (8h)</p>
+<p>Materias implicadas: Historia y Geografía, Tecnología.</p>
+<p> Idioma: Español e Inglés (bilingüe) </p>
+<p> </p>
+<p><strong>¿Qué se pretende que trabaje el alumnado? </strong></p>
+<p> En esta SdA se trabaja sobre el color y textura adecuado a los siguientes <strong>saberes básicos</strong></p>
+<ul>
+<li>EPV.3.A.1. Manifestaciones culturales y artísticas más importantes, incluidas las contemporáneas y las pertenecientes al patrimonio local: sus aspectos formales y su relación con el contexto histórico.</li>
+<li>EPV.3.B.1. El lenguaje visual como forma de comunicación.</li>
+<li>EPV.3.B.2. Elementos básicos del lenguaje visual: el punto, la línea y el plano. Posibilidades expresivas y comunicativas. El entorno comunicativo: iconicidad y abstracción. Análisis de las imágenes: denotación y connotación. Lectura objetiva y subjetiva de una imagen.</li>
+<li>EPV.3.B.3. Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura. Mezcla aditiva y sustractiva. Colores complementarios. Utilización expresiva del color.</li>
+<li>EPV.3.C.1. Factores y etapas del proceso creativo: elección de materiales y técnicas, realización de bocetos</li>
+</ul>
+<p><strong>¿Cómo se va a evaluar tu trabajo? Instrumentos de evaluación</strong><br /><br /><strong></strong></p>
+<table border="1" style="width: 100.023%;">
+<tbody>
+<tr>
+<td style="width: 99.8839%;">
+<p>PORTAFOLIO DEL ALUMNO<br />Conjunto de trabajos, tareas y ejercicios desarrollados en el aula y recogidos por la profesora, adaptados en tiempo y forma en aplicación del PRA del alumno.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8839%;">Criterio de evaluación específico: 3.2.2 –3.2.3 – 3.3.3– 3.5.2 – 3.6.2 – 3.8.2</td>
+</tr>
+</tbody>
+</table>
+<p><strong></strong><br /></p>
+<table border="1" style="width: 100.023%;">
+<tbody>
+<tr>
+<td style="width: 99.8839%;">
+<p>PRODUCTO FINAL SA TEXTURA<br />Actividad grupal, contribuyendo a una producción artística complementaria de todo el grupo-aula.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8839%;">Criterio de evaluación específico: 3.4.1- 3.5.2- 3.5.3- 3.7.2</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong> Criterios de evaluación específicos dentro de esta situación de aprendizaje</strong></p>
+<p>Competencia 2. </p>
+<ul>
+<li>Criterio específico 3.2.2. Analizar, con autonomía, diversas producciones artísticas, incluidas las propias, las de sus iguales y las del patrimonio cultural y artístico, valorando el andaluz, desarrollando con interés una mirada estética hacia el mundo y respetando la diversidad de las expresiones culturales.</li>
+<li>Criterio específico 3.2.3. Realizar composiciones inspiradas en la naturaleza donde puedan aplicarse distintas situaciones compositivas, utilizando para ello las técnicas de expresión gráfico-plásticas bidimensionales necesarias.</li>
+</ul>
+<p>Competencia 3. </p>
+<ul>
+<li>Criterio específico 3.3.3. Identificar la importancia de la presentación de las creaciones propias a partir de técnicas   audiovisuales básicas, compartiendo estas producciones con el resto del alumnado.</li>
+</ul>
+<p>Competencia 4. </p>
+<ul>
+<li>Criterio específico 3.4.1. Reconocer los rasgos particulares de diversas técnicas y lenguajes artísticos, así como sus distintos procesos y resultados en función de los contextos sociales, históricos, geográficos y tecnológicos, buscando y analizando la información con interés y eficacia.</li>
+</ul>
+<p>Competencia 5. </p>
+<ul>
+<li>Criterio específico 3.5.2. Realizar diferentes tipos de producciones artísticas individuales o colectivas, justificando el proceso creativo, mostrando iniciativa y autoconfianza, integrando racionalidad, empatía y sensibilidad, y seleccionando las técnicas y los soportes adecuados al propósito.</li>
+<li>Criterio específico 3. 5.3. Descubrir y seleccionar aquellos procedimientos y técnicas más idóneos en relación con los fines de presentación y representación perseguidos.</li>
+</ul>
+<p>Competencia 6. </p>
+<ul>
+<li>Criterio específico 3.6.2. Utilizar  creativamente referencias culturales y artísticas del entorno en la  elaboración de producciones propias, mostrando una visión personal</li>
+</ul>
+<p>Competencia 7. </p>
+<ul>
+<li>Criterio específico 3.7.2. Elaborar producciones artísticas ajustadas al objetivo propuesto, individuales o colectivas, a partir del análisis de las posibilidades expresivas y plásticas utilizadas por creadores dentro de este ámbito, esforzándose en superarse y demostrando un criterio propio.</li>
+</ul>
+<p>Competencia 8. </p>
+<ul>
+<li>Criterio específico 3.8.2. Desarrollar producciones y manifestaciones artísticas con una intención previa, de forma individual o colectiva, organizando y desarrollando las diferentes etapas y considerando las características del público destinatario.</li>
+</ul>
+<p><br /><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778348086728-t3kgdl4d8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>SdA: Texturas de Andalucía</strong></p>\n<p> Asignatura: Educación Plástica Visual y Audiovisual (EPVA)  de 3° de ESO</p>\n<p>Temática: El alumnado va a trabajar en esta situación de aprendizaje sobre los saberes básicos relacionados con forma, color y textura de la representación gráfica. Por ello, en el producto final vamos a proponerles como problema el diseño de una camiseta promocional de Andalucía. Este diseño se elabora mediante un collage donde el alumnado compone creativamente las texturas, colores y formas que representan elementos de identidad de Andalucía. Este proyecto será cooperativo, en grupos (para incluir todas las provincias andaluzas) y se elaborará de forma digital con el uso de la aplicación Canva.</p>\n<p>Temporalización: noviembre, 8 sesiones (8h)</p>\n<p>Materias implicadas: Historia y Geografía, Tecnología.</p>\n<p> Idioma: Español e Inglés (bilingüe) </p>\n<p> </p>\n<p><strong>¿Qué se pretende que trabaje el alumnado? </strong></p>\n<p> En esta SdA se trabaja sobre el color y textura adecuado a los siguientes <strong>saberes básicos</strong></p>\n<ul>\n<li>EPV.3.A.1. Manifestaciones culturales y artísticas más importantes, incluidas las contemporáneas y las pertenecientes al patrimonio local: sus aspectos formales y su relación con el contexto histórico.</li>\n<li>EPV.3.B.1. El lenguaje visual como forma de comunicación.</li>\n<li>EPV.3.B.2. Elementos básicos del lenguaje visual: el punto, la línea y el plano. Posibilidades expresivas y comunicativas. El entorno comunicativo: iconicidad y abstracción. Análisis de las imágenes: denotación y connotación. Lectura objetiva y subjetiva de una imagen.</li>\n<li>EPV.3.B.3. Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura. Mezcla aditiva y sustractiva. Colores complementarios. Utilización expresiva del color.</li>\n<li>EPV.3.C.1. Factores y etapas del proceso creativo: elección de materiales y técnicas, realización de bocetos</li>\n</ul>\n<p><strong>¿Cómo se va a evaluar tu trabajo? Instrumentos de evaluación</strong><br /><br /><strong></strong></p>\n<table border=\"1\" style=\"width: 100.023%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8839%;\">\n<p>PORTAFOLIO DEL ALUMNO<br />Conjunto de trabajos, tareas y ejercicios desarrollados en el aula y recogidos por la profesora, adaptados en tiempo y forma en aplicación del PRA del alumno.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8839%;\">Criterio de evaluación específico: 3.2.2 –3.2.3 – 3.3.3– 3.5.2 – 3.6.2 – 3.8.2</td>\n</tr>\n</tbody>\n</table>\n<p><strong></strong><br /></p>\n<table border=\"1\" style=\"width: 100.023%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8839%;\">\n<p>PRODUCTO FINAL SA TEXTURA<br />Actividad grupal, contribuyendo a una producción artística complementaria de todo el grupo-aula.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8839%;\">Criterio de evaluación específico: 3.4.1- 3.5.2- 3.5.3- 3.7.2</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong> Criterios de evaluación específicos dentro de esta situación de aprendizaje</strong></p>\n<p>Competencia 2. </p>\n<ul>\n<li>Criterio específico 3.2.2. Analizar, con autonomía, diversas producciones artísticas, incluidas las propias, las de sus iguales y las del patrimonio cultural y artístico, valorando el andaluz, desarrollando con interés una mirada estética hacia el mundo y respetando la diversidad de las expresiones culturales.</li>\n<li>Criterio específico 3.2.3. Realizar composiciones inspiradas en la naturaleza donde puedan aplicarse distintas situaciones compositivas, utilizando para ello las técnicas de expresión gráfico-plásticas bidimensionales necesarias.</li>\n</ul>\n<p>Competencia 3. </p>\n<ul>\n<li>Criterio específico 3.3.3. Identificar la importancia de la presentación de las creaciones propias a partir de técnicas   audiovisuales básicas, compartiendo estas producciones con el resto del alumnado.</li>\n</ul>\n<p>Competencia 4. </p>\n<ul>\n<li>Criterio específico 3.4.1. Reconocer los rasgos particulares de diversas técnicas y lenguajes artísticos, así como sus distintos procesos y resultados en función de los contextos sociales, históricos, geográficos y tecnológicos, buscando y analizando la información con interés y eficacia.</li>\n</ul>\n<p>Competencia 5. </p>\n<ul>\n<li>Criterio específico 3.5.2. Realizar diferentes tipos de producciones artísticas individuales o colectivas, justificando el proceso creativo, mostrando iniciativa y autoconfianza, integrando racionalidad, empatía y sensibilidad, y seleccionando las técnicas y los soportes adecuados al propósito.</li>\n<li>Criterio específico 3. 5.3. Descubrir y seleccionar aquellos procedimientos y técnicas más idóneos en relación con los fines de presentación y representación perseguidos.</li>\n</ul>\n<p>Competencia 6. </p>\n<ul>\n<li>Criterio específico 3.6.2. Utilizar  creativamente referencias culturales y artísticas del entorno en la  elaboración de producciones propias, mostrando una visión personal</li>\n</ul>\n<p>Competencia 7. </p>\n<ul>\n<li>Criterio específico 3.7.2. Elaborar producciones artísticas ajustadas al objetivo propuesto, individuales o colectivas, a partir del análisis de las posibilidades expresivas y plásticas utilizadas por creadores dentro de este ámbito, esforzándose en superarse y demostrando un criterio propio.</li>\n</ul>\n<p>Competencia 8. </p>\n<ul>\n<li>Criterio específico 3.8.2. Desarrollar producciones y manifestaciones artísticas con una intención previa, de forma individual o colectiva, organizando y desarrollando las diferentes etapas y considerando las características del público destinatario.</li>\n</ul>\n<p><br /><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778361185099-h3wnh3saa</odePageId>
+  <odeParentPageId>page-moytrn24-07atosl2f</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778361185099-h3wnh3saa</odePageId>
+      <odeBlockId>block-1778361193270-7h1tpofr0</odeBlockId>
+      <blockName>Descripción de producto final</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778361185099-h3wnh3saa</odePageId>
+          <odeBlockId>block-1778361193270-7h1tpofr0</odeBlockId>
+          <odeIdeviceId>idevice-1778361193269-7vp80xa3s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Producto final de la situación de aprendizaje</strong></p>
+<p>En esta situación de aprendizaje vamos a realizar el diseño para una camiseta promocional de Andalucía o alguna de sus provincias, como producto final. Para ello, os propongo el uso de la herramienta digital Canva.</p>
+<p><strong>Justificación de la herramienta Canva</strong></p>
+<p>Canva es una herramienta con la que el alumnado de tercero de secundaria suele haber trabajado previamente, sin embargo, necesitan mejorar, optimizar su uso y aplicar todas las funcionalidades que les ofrece. Así, practicando aprenderán a usar Canva con creatividad genuina, cuidada composición y precisión en el resultado.</p>
+<p>En este proyecto, Canva nos permite trabajar la técnica del collage digital de forma excepcional. Para este proyecto sobre el arte y la cultura de Andalucía, la herramienta ofrece:</p>
+<ul>
+<li>Banco de recursos: Acceso a elementos gráficos, texturas y fotografías que pueden representar desde azulejería mudéjar hasta elementos del flamenco o la arquitectura contemporánea andaluza.</li>
+<li>Herramientas de edición: La función de "quitar fondos", uso de guías visuales y el uso de capas facilitan la composición visual, permitiendo al alumnado centrarse en la estética y el mensaje cultural sin frustrarse con la complejidad técnica de otros softwares profesionales (como Photoshop).</li>
+<li>Posibilidad de compartir diseño: Los alumnos comparten sus diseños con la docente, quien puede acceder simultáneamente a ellos desde su portatil y dar feedback o resolver problemas sobre el trabajo en curso.</li>
+</ul>
+<p><br />Hay que señalar que en el proceso de proyecto el alumnado realizará un boceto previo en papel, por lo que en su digitalización la aplicación de Canva nos ofrece una buena adaptación.</p>
+<p>Por otro lado, además de los recursos alojados en Canva, será necesario ofrecer al alumnado páginas donde buscar imágenes, como: Pixabay o Freepick. Así como ofrecerles la posibilidad de digitalizar y subir imágenes propias, realizadas con cámara fotográfica o dibujo a mano.</p>
+<p><strong>Recursos en el aula</strong></p>
+<p>En el desarrollo de las sesiones, contamos con pizarra digital y carritos de ordenadores, con terminales para todo el alumnado, con conexión a internet.</p>
+<p><strong>Atención a la diversidad</strong></p>
+<p>Canva destaca por ser una herramienta multiplataforma (web, tablet, móvil), lo que garantiza que cualquier alumno pueda trabajar desde los recursos disponibles en el centro o sus propios dispositivos. Además, su interfaz es intuitiva y cuenta con lectores de pantalla y opciones de contraste, asegurando que el alumnado con diferentes capacidades pueda navegar la interfaz de forma autónoma.</p>
+<p>En concreto, en uno de los grupos contamos con alumnado que precisa de apoyo por falta de motricidad fina y para ello, contamos con una tablet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778361193269-7vp80xa3s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto final de la situación de aprendizaje</strong></p>\n<p>En esta situación de aprendizaje vamos a realizar el diseño para una camiseta promocional de Andalucía o alguna de sus provincias, como producto final. Para ello, os propongo el uso de la herramienta digital Canva.</p>\n<p><strong>Justificación de la herramienta Canva</strong></p>\n<p>Canva es una herramienta con la que el alumnado de tercero de secundaria suele haber trabajado previamente, sin embargo, necesitan mejorar, optimizar su uso y aplicar todas las funcionalidades que les ofrece. Así, practicando aprenderán a usar Canva con creatividad genuina, cuidada composición y precisión en el resultado.</p>\n<p>En este proyecto, Canva nos permite trabajar la técnica del collage digital de forma excepcional. Para este proyecto sobre el arte y la cultura de Andalucía, la herramienta ofrece:</p>\n<ul>\n<li>Banco de recursos: Acceso a elementos gráficos, texturas y fotografías que pueden representar desde azulejería mudéjar hasta elementos del flamenco o la arquitectura contemporánea andaluza.</li>\n<li>Herramientas de edición: La función de \"quitar fondos\", uso de guías visuales y el uso de capas facilitan la composición visual, permitiendo al alumnado centrarse en la estética y el mensaje cultural sin frustrarse con la complejidad técnica de otros softwares profesionales (como Photoshop).</li>\n<li>Posibilidad de compartir diseño: Los alumnos comparten sus diseños con la docente, quien puede acceder simultáneamente a ellos desde su portatil y dar feedback o resolver problemas sobre el trabajo en curso.</li>\n</ul>\n<p><br />Hay que señalar que en el proceso de proyecto el alumnado realizará un boceto previo en papel, por lo que en su digitalización la aplicación de Canva nos ofrece una buena adaptación.</p>\n<p>Por otro lado, además de los recursos alojados en Canva, será necesario ofrecer al alumnado páginas donde buscar imágenes, como: Pixabay o Freepick. Así como ofrecerles la posibilidad de digitalizar y subir imágenes propias, realizadas con cámara fotográfica o dibujo a mano.</p>\n<p><strong>Recursos en el aula</strong></p>\n<p>En el desarrollo de las sesiones, contamos con pizarra digital y carritos de ordenadores, con terminales para todo el alumnado, con conexión a internet.</p>\n<p><strong>Atención a la diversidad</strong></p>\n<p>Canva destaca por ser una herramienta multiplataforma (web, tablet, móvil), lo que garantiza que cualquier alumno pueda trabajar desde los recursos disponibles en el centro o sus propios dispositivos. Además, su interfaz es intuitiva y cuenta con lectores de pantalla y opciones de contraste, asegurando que el alumnado con diferentes capacidades pueda navegar la interfaz de forma autónoma.</p>\n<p>En concreto, en uno de los grupos contamos con alumnado que precisa de apoyo por falta de motricidad fina y para ello, contamos con una tablet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moytrn25-746a1tkrj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad previa: Seguridad digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad previa: Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad previa: Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moytrn25-746a1tkrj</odePageId>
+      <odeBlockId>block-1778344542903-m3pqcc8yj</odeBlockId>
+      <blockName>Seguridad digital</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moytrn25-746a1tkrj</odePageId>
+          <odeBlockId>block-1778344542903-m3pqcc8yj</odeBlockId>
+          <odeIdeviceId>idevice-1778344542900-jlwwr12jv</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778344542900-jlwwr12jv" title="" href="{{context_path}}/content/resources/Infografia seguridad digital ilustrada azul.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografia seguridad digital ilustrada azul.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778344542900-jlwwr12jv","img_1":{"img":"{{context_path}}/content/resources/Infografia seguridad digital ilustrada azul.jpg","thumbnail":"{{context_path}}/content/resources/Infografia seguridad digital ilustrada azul.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778363655949-hl0ae8b6q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Contenidos </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778363666325-29hxvcaf6</odePageId>
+  <odeParentPageId>page-1778363655949-hl0ae8b6q</odeParentPageId>
+  <pageName>Docente</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778363666325-29hxvcaf6</odePageId>
+      <odeBlockId>block-1778363765515-bgos1io22</odeBlockId>
+      <blockName>Symbaloo: webmix para docentes</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778363666325-29hxvcaf6</odePageId>
+          <odeBlockId>block-1778363765515-bgos1io22</odeBlockId>
+          <odeIdeviceId>idevice-1778363765512-f1vkizx2n</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAAAdESw2kAA41-5EVQBg==" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778363677417-87lnk9z68</odePageId>
+  <odeParentPageId>page-1778363655949-hl0ae8b6q</odeParentPageId>
+  <pageName>Alumnado</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778363677417-87lnk9z68</odePageId>
+      <odeBlockId>block-1778363682486-dy7b2huox</odeBlockId>
+      <blockName>Padlet: lecciones para ser diseñadora o diseñador</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778363677417-87lnk9z68</odePageId>
+          <odeBlockId>block-1778363682486-dy7b2huox</odeBlockId>
+          <odeIdeviceId>idevice-1778363682483-nqhfgurtt</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mgraper222/lecciones-para-ser-disenador-y-disenadora-uoukjnbiagw3xi0t" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778369105553-tee6x8kwu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Material producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778369105553-tee6x8kwu</odePageId>
+      <odeBlockId>block-1778369176698-2wsxqgsz3</odeBlockId>
+      <blockName>Plantilla Canva para producto final</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778369105553-tee6x8kwu</odePageId>
+          <odeBlockId>block-1778369176698-2wsxqgsz3</odeBlockId>
+          <odeIdeviceId>idevice-1778369176695-68i2gow82</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://canva.link/27ieqkx9kny91l3" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778369353577-jcae4weyh</odePageId>
+  <odeParentPageId>page-1778369105553-tee6x8kwu</odeParentPageId>
+  <pageName>Plantilla para diseño camiseta </pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plantilla para diseño camiseta </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778369353577-jcae4weyh</odePageId>
+      <odeBlockId>block-1778369360458-umwun9b2f</odeBlockId>
+      <blockName>Plantilla para diseño de camisetas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778369353577-jcae4weyh</odePageId>
+          <odeBlockId>block-1778369360458-umwun9b2f</odeBlockId>
+          <odeIdeviceId>idevice-1778369360457-y87ew7nv1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778369360457-y87ew7nv1" title="" href="{{context_path}}/content/resources/1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778369360457-y87ew7nv1" title="" href="{{context_path}}/content/resources/2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778369360457-y87ew7nv1","img_0":{"img":"{{context_path}}/content/resources/1.jpg","thumbnail":"{{context_path}}/content/resources/1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/2.jpg","thumbnail":"{{context_path}}/content/resources/2.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778363925648-e8gez0p5v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778363943048-yqa4m6e7f</odePageId>
+  <odeParentPageId>page-1778363925648-e8gez0p5v</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778363943048-yqa4m6e7f</odePageId>
+      <odeBlockId>block-1778363958859-byf1zebdt</odeBlockId>
+      <blockName>Rúbrica para evaluación del diseño de camiseta de Andalucía (Canva)</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778363943048-yqa4m6e7f</odePageId>
+          <odeBlockId>block-1778363958859-byf1zebdt</odeBlockId>
+          <odeIdeviceId>idevice-1778363958857-24twjeesi</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778363958857-24twjeesi%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20dise%F1o%20camiseta%20en%20Canva%22%2C%22categories%22%3A%5B%22An%E1lisis%20del%20tema%20andaluz%20%28Descriptivo/Gr%E1fico%29%20Fase%20previa%22%2C%22Descripci%F3n%20de%20la%20idea%20%28Creatividad%29%22%2C%22Originalidad%20y%20soluciones%20personales%22%2C%22Detalle%20del%20borrador%20elaborado%20a%20mano%22%2C%22Uso%20de%20materiales%20y%20formato%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Identificas%20y%20seleccionas%20una%20excelente%20variedad%20de%20elementos%20andaluces%20%28monumentos%2C%20s%EDmbolos%2C%20cultura%2C%20colores%29%20y%20los%20analizas%20a%20fondo%20para%20inspirar%20tu%20dise%F1o%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Identificas%20y%20seleccionas%20de%20manera%20adecuada%20varios%20elementos%20representativos%20de%20Andaluc%EDa%20que%20sirven%20como%20base%20clara%20para%20tu%20dise%F1o.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Realizas%20un%20an%E1lisis%20superficial%3B%20incluyes%20pocos%20elementos%20de%20Andaluc%EDa%20o%20estos%20son%20muy%20gen%E9ricos%20y%20poco%20desarrollados.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20realizas%20el%20an%E1lisis%20del%20tema%20o%20los%20elementos%20elegidos%20no%20guardan%20una%20relaci%F3n%20real%20con%20Andaluc%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Explicas%20de%20forma%20brillante%20la%20motivaci%F3n%20y%20el%20significado%20de%20tu%20dise%F1o.%20La%20idea%20de%20tu%20collage%20es%20muy%20creativa%20y%20transmite%20la%20esencia%20andaluza%20de%20forma%20innovadora.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Describes%20de%20forma%20clara%20la%20motivaci%F3n%20de%20tu%20dise%F1o.%20El%20collage%20plantea%20una%20propuesta%20original%20y%20creativa%20bien%20pensada.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Tu%20descripci%F3n%20es%20muy%20breve%20o%20confusa.%20La%20idea%20muestra%20poca%20creatividad%20o%20es%20muy%20parecida%20a%20ejemplos%20que%20ya%20existen.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20explicas%20la%20idea%20o%20el%20concepto%20carece%20por%20completo%20de%20originalidad%20%28es%20una%20copia%20directa%20sin%20aportar%20nada%20nuevo%29.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Tu%20propuesta%20de%20dise%F1o%20es%20%FAnica%20y%20personal.%20Aportas%20soluciones%20visuales%20muy%20ingeniosas%20en%20la%20composici%F3n%20de%20las%20im%E1genes%2C%20destacando%20por%20tu%20propio%20estilo%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Muestras%20elementos%20originales%20y%20un%20enfoque%20personal%20claro%20en%20el%20collage%2C%20aunque%20te%20apoyes%20en%20algunas%20ideas%20convencionales.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Tu%20propuesta%20es%20muy%20com%FAn%3B%20te%20limitas%20a%20repetir%20im%E1genes%20t%EDpicas%20juntas%20sin%20aportar%20una%20visi%F3n%20o%20un%20toque%20que%20sea%20tuyo.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20dise%F1o%20es%20una%20copia%20directa%20de%20internet%20o%20carece%20por%20completo%20de%20elementos%20propios%20o%20ideas%20tuyas.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Tu%20boceto%20en%20papel%20es%20muy%20detallado%20y%20limpio.%20Planificas%20con%20precisi%F3n%20la%20distribuci%F3n%20del%20collage%2C%20los%20elementos%20andaluces%20y%20c%F3mo%20quedar%E1n%20organizados%20en%20la%20camiseta.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Presentas%20un%20boceto%20claro%20que%20define%20la%20composici%F3n%20general%20del%20collage%2C%20la%20colocaci%F3n%20de%20las%20im%E1genes%20principales%20y%20su%20estructura%20en%20la%20camiseta.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20boceto%20es%20demasiado%20b%E1sico%2C%20esquem%E1tico%20o%20poco%20claro.%20Cuesta%20entender%20c%F3mo%20ser%E1%20la%20distribuci%F3n%20final%20del%20collage%20a%20partir%20del%20papel.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20dibujo%20es%20muy%20descuidado%2C%20confuso%20o%20no%20lo%20presentas%2C%20demostrando%20que%20no%20hubo%20una%20planificaci%F3n%20previa%20en%20papel.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Dominas%20Canva%20de%20forma%20excelente%3A%20el%20collage%20est%E1%20perfectamente%20integrado%20en%20la%20camiseta%2C%20usas%20las%20herramientas%20con%20destreza%20%28recortes%2C%20capas%2C%20tipograf%EDas%20arm%F3nicas%29%20y%20la%20presentaci%F3n%20visual%20es%20impecable.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Utilizas%20Canva%20correctamente%3A%20las%20im%E1genes%20del%20collage%20est%E1n%20bien%20distribuidas%20en%20la%20camiseta%2C%20los%20textos%20se%20leen%20perfectamente%20y%20el%20acabado%20digital%20es%20vistoso%20y%20limpio.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Haces%20un%20uso%20muy%20b%E1sico%20de%20Canva%3A%20las%20im%E1genes%20del%20collage%20se%20ven%20amontonadas%2C%20pixeladas%20o%20mal%20recortadas%2C%20y%20la%20composici%F3n%20en%20la%20camiseta%20es%20muy%20mejorable.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20uso%20de%20la%20herramienta%20es%20deficiente%20o%20inadecuado%2C%20afectando%20negativamente%20al%20resultado.%20El%20collage%20est%E1%20desordenado%2C%20incompleto%20o%20no%20se%20adapta%20al%20formato%20de%20camiseta.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20dise%F1o%20camiseta%20en%20Canva%22%2C%22categories%22%3A%5B%22An%E1lisis%20del%20tema%20andaluz%20%28Descriptivo/Gr%E1fico%29%20Fase%20previa%22%2C%22Descripci%F3n%20de%20la%20idea%20%28Creatividad%29%22%2C%22Originalidad%20y%20soluciones%20personales%22%2C%22Detalle%20del%20borrador%20elaborado%20a%20mano%22%2C%22Uso%20de%20materiales%20y%20formato%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Identificas%20y%20seleccionas%20una%20excelente%20variedad%20de%20elementos%20andaluces%20%28monumentos%2C%20s%EDmbolos%2C%20cultura%2C%20colores%29%20y%20los%20analizas%20a%20fondo%20para%20inspirar%20tu%20dise%F1o%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Identificas%20y%20seleccionas%20de%20manera%20adecuada%20varios%20elementos%20representativos%20de%20Andaluc%EDa%20que%20sirven%20como%20base%20clara%20para%20tu%20dise%F1o.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Realizas%20un%20an%E1lisis%20superficial%3B%20incluyes%20pocos%20elementos%20de%20Andaluc%EDa%20o%20estos%20son%20muy%20gen%E9ricos%20y%20poco%20desarrollados.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20realizas%20el%20an%E1lisis%20del%20tema%20o%20los%20elementos%20elegidos%20no%20guardan%20una%20relaci%F3n%20real%20con%20Andaluc%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Explicas%20de%20forma%20brillante%20la%20motivaci%F3n%20y%20el%20significado%20de%20tu%20dise%F1o.%20La%20idea%20de%20tu%20collage%20es%20muy%20creativa%20y%20transmite%20la%20esencia%20andaluza%20de%20forma%20innovadora.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Describes%20de%20forma%20clara%20la%20motivaci%F3n%20de%20tu%20dise%F1o.%20El%20collage%20plantea%20una%20propuesta%20original%20y%20creativa%20bien%20pensada.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Tu%20descripci%F3n%20es%20muy%20breve%20o%20confusa.%20La%20idea%20muestra%20poca%20creatividad%20o%20es%20muy%20parecida%20a%20ejemplos%20que%20ya%20existen.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20explicas%20la%20idea%20o%20el%20concepto%20carece%20por%20completo%20de%20originalidad%20%28es%20una%20copia%20directa%20sin%20aportar%20nada%20nuevo%29.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Tu%20propuesta%20de%20dise%F1o%20es%20%FAnica%20y%20personal.%20Aportas%20soluciones%20visuales%20muy%20ingeniosas%20en%20la%20composici%F3n%20de%20las%20im%E1genes%2C%20destacando%20por%20tu%20propio%20estilo%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Muestras%20elementos%20originales%20y%20un%20enfoque%20personal%20claro%20en%20el%20collage%2C%20aunque%20te%20apoyes%20en%20algunas%20ideas%20convencionales.%22%7D%2C%7B%22weight%22%3A%221.%22%2C%22text%22%3A%22Tu%20propuesta%20es%20muy%20com%FAn%3B%20te%20limitas%20a%20repetir%20im%E1genes%20t%EDpicas%20juntas%20sin%20aportar%20una%20visi%F3n%20o%20un%20toque%20que%20sea%20tuyo.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20dise%F1o%20es%20una%20copia%20directa%20de%20internet%20o%20carece%20por%20completo%20de%20elementos%20propios%20o%20ideas%20tuyas.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.%22%2C%22text%22%3A%22Tu%20boceto%20en%20papel%20es%20muy%20detallado%20y%20limpio.%20Planificas%20con%20precisi%F3n%20la%20distribuci%F3n%20del%20collage%2C%20los%20elementos%20andaluces%20y%20c%F3mo%20quedar%E1n%20organizados%20en%20la%20camiseta.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Presentas%20un%20boceto%20claro%20que%20define%20la%20composici%F3n%20general%20del%20collage%2C%20la%20colocaci%F3n%20de%20las%20im%E1genes%20principales%20y%20su%20estructura%20en%20la%20camiseta.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20boceto%20es%20demasiado%20b%E1sico%2C%20esquem%E1tico%20o%20poco%20claro.%20Cuesta%20entender%20c%F3mo%20ser%E1%20la%20distribuci%F3n%20final%20del%20collage%20a%20partir%20del%20papel.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20dibujo%20es%20muy%20descuidado%2C%20confuso%20o%20no%20lo%20presentas%2C%20demostrando%20que%20no%20hubo%20una%20planificaci%F3n%20previa%20en%20papel.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Dominas%20Canva%20de%20forma%20excelente%3A%20el%20collage%20est%E1%20perfectamente%20integrado%20en%20la%20camiseta%2C%20usas%20las%20herramientas%20con%20destreza%20%28recortes%2C%20capas%2C%20tipograf%EDas%20arm%F3nicas%29%20y%20la%20presentaci%F3n%20visual%20es%20impecable.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Utilizas%20Canva%20correctamente%3A%20las%20im%E1genes%20del%20collage%20est%E1n%20bien%20distribuidas%20en%20la%20camiseta%2C%20los%20textos%20se%20leen%20perfectamente%20y%20el%20acabado%20digital%20es%20vistoso%20y%20limpio.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Haces%20un%20uso%20muy%20b%E1sico%20de%20Canva%3A%20las%20im%E1genes%20del%20collage%20se%20ven%20amontonadas%2C%20pixeladas%20o%20mal%20recortadas%2C%20y%20la%20composici%F3n%20en%20la%20camiseta%20es%20muy%20mejorable.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20uso%20de%20la%20herramienta%20es%20deficiente%20o%20inadecuado%2C%20afectando%20negativamente%20al%20resultado.%20El%20collage%20est%E1%20desordenado%2C%20incompleto%20o%20no%20se%20adapta%20al%20formato%20de%20camiseta.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22%20Mar%EDa%20del%20Mar%20Granero%22%2C%22license%22%3A%22CC-BY%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author"> María del Mar Granero</span>. <span class="title"><em>Rúbrica diseño camiseta en Canva</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY">CC BY</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778363943048-yqa4m6e7f</odePageId>
+      <odeBlockId>block-1778364689173-t5f80gg6s</odeBlockId>
+      <blockName>Cuestionario Google: combinación de color en diseño</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778363943048-yqa4m6e7f</odePageId>
+          <odeBlockId>block-1778364689173-t5f80gg6s</odeBlockId>
+          <odeIdeviceId>idevice-1778364689171-q2jx3wl3s</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCVgRwMBmhtj4AOedMMey-lNga3aBsbeDLDU6zWTFIbg3njA/viewform?usp=dialog" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778365221968-4lco1nnaw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778365221968-4lco1nnaw</odePageId>
+      <odeBlockId>block-1778365840123-wrlm3rek6</odeBlockId>
+      <blockName>Créditos y enlace de descarga</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778365221968-4lco1nnaw</odePageId>
+          <odeBlockId>block-1778365840123-wrlm3rek6</odeBlockId>
+          <odeIdeviceId>idevice-1778365840121-wng4uiwdy</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Texturas de Andalucía</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María del Mar Granero</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
